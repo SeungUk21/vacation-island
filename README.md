@@ -3,6 +3,7 @@
 머지 퍼즐 게임으로 자원을 생성 및 합성하고 미니게임 스테이지를 클리하며 휴양지를 복구하는 게임입니다.
 
 
+<img width="2497" height="1231" alt="스크린샷 2026-11-12 165352" src="https://github.com/user-attachments/assets/7097032c-b6a4-4fda-bdba-7bef61a4aefb" />
 
 
 # 플레이 방법
